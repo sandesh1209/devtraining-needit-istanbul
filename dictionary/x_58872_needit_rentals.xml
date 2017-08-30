@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="rental" max_length="40" name="x_58872_needit_rentals" type="collection">
+        <element attributes="ignore_filter_on_new=true,ts_weight=50" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
+        <element label="Product" max_length="140" name="product" type="string"/>
+    </element>
+</database>
